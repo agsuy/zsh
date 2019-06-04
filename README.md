@@ -3,6 +3,8 @@
 
 config file and repo paths
 
+- Set all to ~/.zsh folder
+
 
 ## Extras: 
 
