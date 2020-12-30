@@ -16,5 +16,7 @@ config file and repo paths
 
 At `/usr/share/byobu/keybindings` edit common and add these (and remove screens ones):
 
-source $BYOBU_PREFIX/share/byobu/keybindings/f-keys.tmux.disable
-source $BYOBU_PREFIX/share/byobu/keybindings/f-keys.tmux
+
+`source $BYOBU_PREFIX/share/byobu/keybindings/f-keys.tmux.disable`
+
+`source $BYOBU_PREFIX/share/byobu/keybindings/f-keys.tmux`
