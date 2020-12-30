@@ -1,4 +1,4 @@
-# ZSH Tmux Byobu enviroment
+# ZSH Tmux Byobu environment
 
 
 config file and repo paths
